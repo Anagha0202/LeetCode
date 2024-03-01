@@ -1,2 +1,2 @@
 # LeetCode
-Consistently solving Leetcode everyday
+Leetcode solutions and Approaches
